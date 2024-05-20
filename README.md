@@ -1,7 +1,7 @@
 # Paper Implementations
 > 논문과 GitHub을 바탕으로 직접 Deep learning architecture 등을 구현해보기
 
-# Classification
+## Classification
 
 * **[2014.09.04] Very Deep Convolutional Networks For Large-Scale Image Recognition (VGGNet)**
   * Paper: [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
