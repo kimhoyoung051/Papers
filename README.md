@@ -1,5 +1,5 @@
 # Paper Implementations
-> 논문과 GitHub을 바탕으로 직접 Deep learning architecture 등을 구현
+> 논문과 GitHub을 바탕으로 직접 Deep learning architecture 등을 구현해보기
 
 # Classification
 
