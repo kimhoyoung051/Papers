@@ -5,7 +5,8 @@
 
 * **[2014.09.04] Very Deep Convolutional Networks For Large-Scale Image Recognition (VGGNet)**
   * Paper: [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
-  * [Code]()
+  * VGG16 Code: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/classification/VGG16.ipynb)
+  * VGG19 Code: [Code]()
 
 
 * **[2015.12.02] Rethinking the Inception Architecture for Computer Vision (Inception v2, v3)**
