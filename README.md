@@ -34,3 +34,15 @@
   * MobileNet v2 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/classification/MobileNet%20v2.ipynb)
 
 
+
+## Explainable AI (XAI)
+
+* **[2016.10.07] Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**
+  * Paper: [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
+  * Grad-CAM code 1: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/explainable_ai/grad_cam_1.ipynb)
+  * Grad-CAM code 2: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/explainable_ai/grad_cam_2.ipynb)
+
+* **[2017.10.30] Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks**
+  * Paper: [https://arxiv.org/abs/1710.11063](https://arxiv.org/abs/1710.11063)
+  * Grad-CAM++: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/explainable_ai/grad_cam_plusplus.ipynb)
+
