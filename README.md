@@ -1,6 +1,6 @@
 # Paper Implementations
 > 논문과 GitHub을 바탕으로 직접 Deep learning architecture 등을 구현해보기
-
+<br/>
   
 ## Classification
 * **[2014.09.04] Very Deep Convolutional Networks For Large-Scale Image Recognition (VGGNet)**
@@ -27,14 +27,14 @@
 * **[2018.01.13] MobileNetV2; Inverted Residuals and Linear Bottlenecks (MobileNet v2)**
   * Paper: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
   * MobileNet v2 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/classification/MobileNet%20v2.ipynb)
-
+<br/>
   
 ## Deep Learning Training
 * **[2016.08.13] SGDR: Stochastic Gradient Descent with Warm Restarts**
    * Paper: [https://arxiv.org/abs/1608.03983](https://arxiv.org/abs/1608.03983)
    * SGDR implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/deep_learning_training/sgd_with_warm_restarts.ipynb)
    * Custum cosine annealing warm up implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/deep_learning_training/custum_cosine_annealing_warm_restarts.ipynb)
-
+<br/>
 
 ## Explainable AI (XAI)
 * **[2016.10.07] Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**
