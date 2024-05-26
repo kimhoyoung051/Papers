@@ -1,5 +1,6 @@
 # Paper Implementations
-> 논문과 GitHub을 바탕으로 직접 Deep learning architecture 등을 구현해보기
+> Deep learning architecture 등과 관련된 논문을 읽고 해당 내용을 GitHub 등을 바탕으로 직접 구현해본 repository입니다.
+> PyTorch를 활용했습니다.
 <br/>
   
 ## Classification
