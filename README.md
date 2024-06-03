@@ -36,9 +36,12 @@
   
 ## Deep Learning Training
 * **[2016.08.13] SGDR: Stochastic Gradient Descent with Warm Restarts**
-   * Paper: [https://arxiv.org/abs/1608.03983](https://arxiv.org/abs/1608.03983)
-   * SGDR implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/deep_learning_training/sgd_with_warm_restarts.ipynb)
-   * Custum cosine annealing warm up implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/deep_learning_training/custum_cosine_annealing_warm_restarts.ipynb)
+  * Paper: [https://arxiv.org/abs/1608.03983](https://arxiv.org/abs/1608.03983)
+  * SGDR implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/deep_learning_training/sgd_with_warm_restarts.ipynb)
+  * Custum cosine annealing warm up implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/deep_learning_training/custum_cosine_annealing_warm_restarts.ipynb)
+* **[2018.12.04] Bag of Tricks for Image Classification with Convolutional Neural Networks**
+  * Paper: [https://arxiv.org/abs/1812.01187](https://arxiv.org/abs/1812.01187)
+  * Weight intialization and zero gamma implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/deep_learning_training/weight_initialization_zero_gamma.ipynb)
 <br/>
 
 ## Explainable AI (XAI)
