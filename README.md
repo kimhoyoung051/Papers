@@ -3,7 +3,7 @@
 > PyTorch를 활용했습니다.
 <br/>
   
-## Classification
+## CNN
 * **[2014.09.04] Very Deep Convolutional Networks For Large-Scale Image Recognition (VGGNet)**
   * Paper: [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
   * VGG16 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/classification/VGG16.ipynb)
