@@ -20,7 +20,11 @@
 * **[2015.12.10] Deep Residual Learning for Image Recognition (ResNet)**
   * Paper: [https://arxiv.org/abs/1512.03385](https://arxiv.org/abs/1512.03385)
   * ResNet50 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/cnn/ResNet50.ipynb)
-  
+
+* **[2016.02.23] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (Inception-v4, Inception-ResNet)**
+  * Paper: [https://arxiv.org/abs/1602.07261](https://arxiv.org/abs/1602.07261)
+  * Inception-ResNet-v2 implementation: 
+
 * **[2016.08.25] Densely Connected Convolutional Networks (DenseNet)**
   * Paper: [https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
   * DenseNet121 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/cnn/DenseNet121.ipynb)
