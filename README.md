@@ -43,7 +43,7 @@
 * **[2018.01.13] MobileNetV2; Inverted Residuals and Linear Bottlenecks (MobileNet v2)**
   * Paper: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
   * MobileNet v2 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/MobileNet_v2.ipynb)
-<br/>
+<br/> <br/>
   
 ## Deep Learning Training
 * **[2016.08.13] SGDR: Stochastic Gradient Descent with Warm Restarts**
