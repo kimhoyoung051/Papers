@@ -53,7 +53,7 @@
 * **[2018.12.04] Bag of Tricks for Image Classification with Convolutional Neural Networks**
   * Paper: [https://arxiv.org/abs/1812.01187](https://arxiv.org/abs/1812.01187)
   * Weight intialization and zero gamma implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/deep_learning_training/weight_initialization_zero_gamma.ipynb)
-<br/>
+<br/> <br/>
 
 ## Explainable AI (XAI)
 * **[2016.10.07] Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**
