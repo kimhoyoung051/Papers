@@ -29,7 +29,7 @@
 
 * **[2016.02.23] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (Inception-v4, Inception-ResNet)**
   * Paper: [https://arxiv.org/abs/1602.07261](https://arxiv.org/abs/1602.07261)
-  * Inception v4 implementation: [Code]()
+  * Inception v4 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/Inception_v4.ipynb)
   * Inception-ResNet-v2 implementation: [Code]()
 
 * **[2016.08.25] Densely Connected Convolutional Networks (DenseNet)**
