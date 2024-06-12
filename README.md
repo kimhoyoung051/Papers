@@ -17,6 +17,9 @@
 * **[2014.09.17] Going deeper with convolutions (GoogleNet)**
   * Paper: [https://arxiv.org/abs/1409.4842](https://arxiv.org/abs/1409.4842)
   * GoogLeNet implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/GoogLeNet.ipynb)
+* **[2015.06.05] Spatial Transformer Networks (STN)**
+  * Paper: [https://arxiv.org/abs/1506.02025](https://arxiv.org/abs/1506.02025)
+  * Spatial transformer network implementation: [Code]()
 * **[2015.12.02] Rethinking the Inception Architecture for Computer Vision (Inception v2, v3)**
   * Paper: [https://arxiv.org/abs/1512.00567](https://arxiv.org/abs/1512.00567)
   * Inception v3 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/Inception_v3.ipynb)
