@@ -30,6 +30,9 @@
   * Paper: [https://arxiv.org/abs/1602.07261](https://arxiv.org/abs/1602.07261)
   * Inception v4 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/Inception_v4.ipynb)
   * Inception-ResNet-v2 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/Inception_ResNet_v2.ipynb)
+* **[2016.03.16] Identity Mappings in Deep Residual Networks (Pre-activation ResNet)**
+  * Paper: [https://arxiv.org/abs/1603.05027](https://arxiv.org/abs/1603.05027)
+  * Pre-activation ResNet implementation: 
 * **[2016.08.25] Densely Connected Convolutional Networks (DenseNet)**
   * Paper: [https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
   * DenseNet121 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/DenseNet121.ipynb)
