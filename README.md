@@ -11,10 +11,10 @@
 
 ## Image Classification
 * **Very Deep Convolutional Networks For Large-Scale Image Recognition (VGGNet)**
-  > Publication date: 2014.09.04
-  > Paper: [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
-  > VGG16 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/VGG16.ipynb)
-  > VGG19 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/VGG19.ipynb)
+  > Publication date: 2014.09.04 <br/>
+  > Paper: [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556) <br/>
+  > VGG16 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/VGG16.ipynb) <br/>
+  > VGG19 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/VGG19.ipynb) <br/>
 
 * **[2014.09.17] Going deeper with convolutions (GoogleNet)**
   * Paper: [https://arxiv.org/abs/1409.4842](https://arxiv.org/abs/1409.4842)
