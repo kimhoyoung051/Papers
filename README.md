@@ -36,10 +36,10 @@
 * **[2016.08.25] Densely Connected Convolutional Networks (DenseNet)**
   * Paper: [https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
   * DenseNet121 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/DenseNet121.ipynb)
-* **[2017.04.17] MobileNets; Efficient Convolutional Neural Networks for Mobile Vision Applications (MobileNet v1)**
+* **[2017.04.17] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (MobileNet v1)**
   * Paper: [https://arxiv.org/abs/1704.04861](https://arxiv.org/abs/1704.04861)
   * MobileNet v1 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/MobileNet_v1.ipynb)
-* **[2018.01.13] MobileNetV2; Inverted Residuals and Linear Bottlenecks (MobileNet v2)**
+* **[2018.01.13] MobileNetV2: Inverted Residuals and Linear Bottlenecks (MobileNet v2)**
   * Paper: [https://arxiv.org/abs/1801.04381](https://arxiv.org/abs/1801.04381)
   * MobileNet v2 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/MobileNet_v2.ipynb)
 <br/> <br/>
