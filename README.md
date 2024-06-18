@@ -47,6 +47,11 @@
   * Paper: [https://arxiv.org/abs/1603.05027](https://arxiv.org/abs/1603.05027)
   * Pre-activation ResNet 152 implementation: [Code](https://github.com/kimhoyoung051/paper-implementations/blob/main/image_classification/Preactivation_ResNet.ipynb)
 
+* **Wide Residual Networks (WRN)**
+  * Publication date: 2016.05.23
+  * Paper: [https://arxiv.org/abs/1605.07146](https://arxiv.org/abs/1605.07146)
+  * 
+
 * **Densely Connected Convolutional Networks (DenseNet)**
   * Publication date: 2016.08.25
   * Paper: [https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
